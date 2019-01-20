@@ -1,4 +1,4 @@
-package spreadsheet
+package sheety
 
 import (
 	"testing"
